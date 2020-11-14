@@ -19,7 +19,7 @@ The reward token for contribution to the global Net Zero
       C2 - Indirect removals
       C3 - Removals through the financing of absorption project
 
-# List of elligible members to receive a voting token for the Climate DAO
+# List of elligible members to the Climate DAO
     UNFCC
     International standards
     International label

@@ -19,7 +19,15 @@ The reward token for contribution to the global Net Zero
     C2 - Indirect removals
     C3 - Removals through the financing of absorption project
 
-# Tokens list elligible for an Eartheum certification
+# List of elligible members to receive a voting token for the Climate DAO
+    UNFCC
+    International standards
+    International label
+    National labels
+    Independent Consulting company
+    Academics
+    
+# List of tokens elligible to the Eartheum certification
     Guarantee of Origin Token
     Carbon Offset Token
     Mobility Token

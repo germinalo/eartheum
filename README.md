@@ -8,16 +8,16 @@ The reward token for contribution to the global Net Zero
 ### Quantity​
 ### Source Token ​
 ### Category​
-  #### A - Induced emissions reduction​
-    A1 – Direct emissions reduction​
-    A2 - Indirect emissions reduction​
-  #### B - Avoided emissions​
-    B2 - Emissions avoided by my products and services
-    B3 - Emissions avoided through the financing of reduction projects
-  #### C - Negative emissions
-    C1 - Direct removals
-    C2 - Indirect removals
-    C3 - Removals through the financing of absorption project
+    A - Induced emissions reduction​
+      A1 – Direct emissions reduction​
+      A2 - Indirect emissions reduction​
+    B - Avoided emissions​
+      B2 - Emissions avoided by my products and services
+      B3 - Emissions avoided through the financing of reduction projects
+    C - Negative emissions
+      C1 - Direct removals
+      C2 - Indirect removals
+      C3 - Removals through the financing of absorption project
 
 # List of elligible members to receive a voting token for the Climate DAO
     UNFCC
